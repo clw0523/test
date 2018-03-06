@@ -14,6 +14,7 @@ public class Laview {
 	public static void test2(){
 		System.out.println("master");
 		System.out.println("master1");
+		System.out.println("branch1");
 	}
 	
 	public static void test3(){
