@@ -8,5 +8,9 @@ public class Laview {
 		System.out.println("i am laview2 33");
 
 	}
+	
+	public void remote(){
+	}
+	
 
 }
