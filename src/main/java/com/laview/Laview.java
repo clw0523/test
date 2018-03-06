@@ -16,7 +16,7 @@ public class Laview {
 	}
 	
 	public static void test3(){
-		
+		System.out.println("branch1");
 	}
 
 }
