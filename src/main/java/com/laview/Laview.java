@@ -8,7 +8,7 @@ public class Laview {
 
 	}
 	public void test(){
-		System.out.println("99");
+		System.out.println("998");
 	}
 	
 	public static void test2(){
