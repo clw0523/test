@@ -9,7 +9,7 @@ public class Laview {
 
 	}
 	
-	public void remote(){
+	public void remote2(){
 	}
 	
 
